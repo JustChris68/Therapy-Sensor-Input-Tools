@@ -1,4 +1,4 @@
-# EMDRTools
-Tools To Operate Brega Studios EMDR Equipment
+# Sensory Input Tools
+Tools To Operate Brega Studios Equipment For Providing Sensory Stimulation For Therapy Purposes
 
-Development Of Open Source EMDR Software And Equipment for EMDR Therapy
+
